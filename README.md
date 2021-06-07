@@ -40,6 +40,9 @@ $ git clone https://github.com/GMartinho/star-wars-api-desafio-b2w.git
 # Go to project root:
 $ cd star-wars-api-desafio-b2w
 
+# To install all dependencies:
+$ npm install
+
 # To execute the API in dev:
 $ yarn dev
 
