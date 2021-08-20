@@ -1,6 +1,7 @@
 # 
 <h1 align="center">
-STAR WARS API - B2W Challenge for back-end jr. role
+STAR WARS API - B2W Challenge
+  <p>Back-end Jr.</p>
 </h1>
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/85261032/120999516-95901380-c75f-11eb-8e70-1a6a900a0c7a.png" width="600px" />
